@@ -11,6 +11,7 @@ namespace MauroFrancisTryout
         static void Main(string[] args)
         {
             Console.WriteLine("test");
+            Console.WriteLine("iets toegevoegd");
         }
     }
 }
